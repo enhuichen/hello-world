@@ -1,2 +1,3 @@
 # hello-world
-Just an another repository
+
+Hi i am chenenhui, edit hello world just for fun.
